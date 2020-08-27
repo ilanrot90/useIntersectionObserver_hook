@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 2000px;
+}
+
+.item {
+  background-color: aqua;
+  width: 90%;
+  height: 200px;
+  margin: 10px;
+}
+
+.item.active {
+  background-color: yellow;
+}
