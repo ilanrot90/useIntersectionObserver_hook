@@ -1,2 +1,7 @@
 # useIntersectionObserver_hook
-Created with CodeSandbox
+
+- React & Typescript
+
+## Usage
+
+Custom hook to detect when element enters the DOM
